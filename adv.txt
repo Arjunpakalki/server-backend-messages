@@ -1,9 +1,0 @@
-USER METADATA:
-Username: adv
-Email: adv@gmail.com
-Role: Law Seeker
-Account Created: 2025-07-14T08:34:26.051171
-=======================================
-ACTIVITY LOG:
-[2025-07-14T08:34:26.051171] - Account created.
-[2025-07-14T08:34:38.176105] - User logged in.
