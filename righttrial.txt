@@ -1,0 +1,8 @@
+USER METADATA:
+Username: righttrial
+Email: trialright@gmail.com
+Role: Law Seeker
+Account Created: 2025-07-14T08:39:52.753824
+=======================================
+ACTIVITY LOG:
+[2025-07-14T08:39:52.753824] - Account created.
