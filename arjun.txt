@@ -1,9 +1,0 @@
-USER METADATA:
-Username: arjun
-Email: rightsolutionsarjun@gmail.com
-Role: Law Seeker
-Account Created: 2025-07-14T08:28:21.874607
-=======================================
-ACTIVITY LOG:
-[2025-07-14T08:28:21.874607] - Account created.
-[2025-07-14T08:28:35.642432] - User logged in.
