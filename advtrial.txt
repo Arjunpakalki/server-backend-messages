@@ -1,0 +1,8 @@
+USER METADATA:
+Username: adv trial
+Email: rightsolutionstrial@gmail.com
+Role: Lawyer
+Account Created: 2025-07-14T08:26:36.365720
+=======================================
+ACTIVITY LOG:
+[2025-07-14T08:26:36.365720] - Account created.
